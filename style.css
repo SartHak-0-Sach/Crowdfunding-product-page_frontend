@@ -14,7 +14,7 @@ body {
     padding: 0;
     font-size: 16px;
     font-family: 'Commissioner', sans-serif;
-    background-image: url("image-hero-desktop.jpg");
+    background-image: url("/images/image-hero-desktop.jpg");
     background-repeat: no-repeat;
     background-color: lightgray;
 }
