@@ -21,7 +21,15 @@
 
 ### The challenge
 
-The challenge is to create a crowdfunding product page dedicated to the Mastercraft Bamboo Monitor Riser, a beautifully handcrafted monitor stand designed to reduce neck and eye strain. Users should be able to view the optimal layout depending on their device's screen size, see hover states for interactive elements, make a selection of which pledge to support, see an updated progress bar and total money raised based on their pledge total after confirming a pledge, see the number of total backers increment by one after confirming a pledge, and toggle whether or not the product is bookmarked.
+The challenge is to create a crowdfunding product page dedicated to the Mastercraft Bamboo Monitor Riser, a beautifully handcrafted monitor stand designed to reduce neck and eye strain. 
+
+Users should be able to- 
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+- Make a selection of which pledge to support
+- See an updated progress bar and total money raised based on their pledge total after confirming a pledge
+- See the number of total backers increment by one after confirming a pledge
+- Toggle whether or not the product is bookmarked.
 
 ### How to setup the project
 
